@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face{
+  font-family: "Allura";
+  src: url(assets/Fonts/Allura-Regular.otf);
+}
+
+@font-face{
+  font-family: "ChopinScript";
+  src: url(assets/Fonts/ChopinScript.ttf);
+}
+
+html{
+  background-color: antiquewhite;
+}
+
+body{
+  background-color: antiquewhite;
+}
