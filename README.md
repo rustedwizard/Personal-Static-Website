@@ -8,7 +8,7 @@ This under-developing website is a replacement of previous website (gone offline
 
 ### 2020-08-18 Initial release
 
-* The website go online replace the old website ([view it here](www.rustedwizard.com)).
+* The website go online replace the old website ([view it here](https://www.rustedwizard.com)).
 * Based on front-end framework Angular 10.
 * Provide exactly same appearance, resume download link as old website.
 * Domain name stays the same.
