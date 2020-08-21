@@ -6,6 +6,11 @@ This under-developing website is a replacement of previous website (gone offline
 
 ## Change log
 
+### 2020-08-20 Release (ver 0.1.2)
+
+* Update the project to Angular strict project
+* Update the typo on web page
+
 ### 2020-08-19 Release (ver 0.1.1)
 
 * Add Route back to the project (At initial creation of project, I specified NO to Routes).
