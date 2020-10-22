@@ -6,6 +6,11 @@ This under-developing website is a replacement of previous website (gone offline
 
 ## Change log
 
+### 2020-10-22
+
+* Bump up Angular Version to 10.2.0
+* Removed async keyword due to deprecation
+
 ### 2020-08-20 Release (ver 0.1.2)
 
 * Update the project to Angular strict project
